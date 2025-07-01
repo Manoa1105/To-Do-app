@@ -19,5 +19,5 @@ Cette application est une **To-Do List** développée en **Python** avec une int
 1. **Cloner le dépôt :**
 
 ```bash
-git clone https://github.com/ton-nom-utilisateur/todo_app.git
-cd todo_app
+git clone https://github.com/Manoa1105/To-Do-app.git
+cd To-Do-app
