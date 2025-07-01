@@ -1,5 +1,5 @@
 Cette application est une **To-Do List** développée en **Python** avec une interface graphique utilisant **Tkinter** et une base de données **SQLite**.
-![Image](https://github.com/user-attachments/assets/aa81c32c-877d-4bf7-a0d4-6646d945ab75)
+![Image](https://github.com/user-attachments/assets/6a07c4c7-3b38-4e6f-b3e5-ff5a24c67f5d)
 
 ##  Fonctionnalités
 
