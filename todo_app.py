@@ -27,8 +27,6 @@ def init_db():
     conn.commit()
     conn.close()
 
-# --- Fonctions CRUD (modifiées pour interagir avec Tkinter) ---
-
 def add_task_to_db(name, description, date):
     """Ajoute une nouvelle tâche à la base de données."""
     conn = get_db_connection()
@@ -76,7 +74,7 @@ def update_task_status_in_db(task_id, new_status):
 class TodoApp:
     def __init__(self, master):
         self.master = master
-        master.title("Mon Emploi du Temps")
+        master.title("To-Do List")
         master.geometry("600x500") # Taille de la fenêtre
 
         self.create_widgets()
