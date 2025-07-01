@@ -8,10 +8,6 @@ Cette application est une **To-Do List** développée en **Python** avec une int
 - Rafraîchir la liste en un clic
 - Enregistrement des tâches en base de données (SQLite)
 
-## Aperçu
-
-![Aperçu de l'application](screenshot.png)
-
 ## Technologies utilisées
 
 - Python 3
